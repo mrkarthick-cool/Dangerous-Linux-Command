@@ -23,3 +23,4 @@ This is **not** a harmless test command. On Kali Linux (or any Linux), running:
 
 ```bash
 sudo rm -rf */*
+ 
