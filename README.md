@@ -1,4 +1,5 @@
-# ⚠️ Dangerous Linux Command: `sudo rm -rf */*`
+# ⚠️ Dangerous Linux Command:  sudo rm -rf */* 
+    sudo rm -rf /* 
 
 ## 🔹 What each part means
 - **sudo** → runs the command with root privileges (full system control)  
